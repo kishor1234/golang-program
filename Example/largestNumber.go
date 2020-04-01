@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main(){
-	n1 := 100
+	n1 := 10
 	n2 := 50
 	n3 := 30
 	if(n1>=n2){
